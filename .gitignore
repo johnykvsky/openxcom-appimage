@@ -1,0 +1,5 @@
+openxcom/
+appimage/
+*.AppImage
+cache/ccache/*
+.transifexrc
